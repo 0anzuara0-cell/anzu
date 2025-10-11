@@ -1,0 +1,32 @@
+[11Oct2025 00:01:45.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[11Oct2025 00:01:45.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[11Oct2025 00:01:45.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[11Oct2025 00:01:47.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[11Oct2025 00:01:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[11Oct2025 00:01:47.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[11Oct2025 00:01:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -24.500000, 87.500000, 13.500000]
+[11Oct2025 00:03:09.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1040.500000, 114.500000, -703.500000]
+[11Oct2025 00:06:44.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Removed every effect from 178 targets]
+[11Oct2025 00:07:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Iron Golem to -1028.540000, 114.000000, -726.370000]
+[11Oct2025 00:08:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Removed every effect from C0LIGAMES]
+[11Oct2025 00:22:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Stopping the server]
+[11Oct2025 00:22:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Oct2025 00:22:02.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Oct2025 00:22:02.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Oct2025 00:22:02.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Oct2025 00:22:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bb:realend
+[11Oct2025 00:22:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[11Oct2025 00:22:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/scprotect:scp_106
+[11Oct2025 00:22:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[11Oct2025 00:22:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ihfr:the_carnage
+[11Oct2025 00:22:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Oct2025 00:22:02.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (realend): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scp_106): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_carnage): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Oct2025 00:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

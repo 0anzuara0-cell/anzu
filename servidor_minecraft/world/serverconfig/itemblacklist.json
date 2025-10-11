@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "item_predicate": {
+        "items": [
+          "ihfr:sanguine_boots"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "iceandfire:cyclops_eye"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "iceandfire:hydra_heart"
+        ]
+      },
+      "groups": [
+        "default"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "default",
+      "properties": {}
+    }
+  ]
+}
